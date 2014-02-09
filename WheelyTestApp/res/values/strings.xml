@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Crazy Wheel</string>
+    <string name="action_redresh">Обновить</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title"><b>Title</b></string>
+    <string name="no_connection">Нет соединения с Интернетом. Попробуем позже...</string>
+    <string name="server_error">Сервис недоступен.  Попробуем позже...</string>
+
+</resources>
